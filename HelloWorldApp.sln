@@ -20,3 +20,4 @@ Global
 		{2865B42F-D9B5-4651-8DAA-698DD6830812}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
+git config --list
